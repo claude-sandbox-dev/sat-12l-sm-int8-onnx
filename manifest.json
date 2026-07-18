@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "release": "model-5aec8a35",
+  "upstream": {
+    "repository": "segment-any-text/sat-12l-sm",
+    "revision": "d70c72a9331b2d5a9e82baad00c64964a23a09bb",
+    "license": "MIT"
+  },
+  "files": [
+    {
+      "name": "config.json",
+      "size": 1006,
+      "sha256": "c9e72275e57926789e145ce48451afa559289a17a09d8189b00baf93922b9467"
+    },
+    {
+      "name": "tokenizer.json",
+      "size": 9096718,
+      "sha256": "a898ea75433890f6610f4e470b8ebeb0c21dce5c8dd61f892eb09eb5919d2e2c"
+    },
+    {
+      "name": "tokenizer_config.json",
+      "size": 25,
+      "sha256": "994f46754c5bf4014f1aa92d34b1374319c3a6b3f702105cd5b742beaecd18ce"
+    },
+    {
+      "name": "model_quantized.onnx",
+      "size": 281418194,
+      "sha256": "5aec8a356b4a269c2b5b856491583271da5bbe75983174f5775f1001e553f0ca"
+    }
+  ]
+}
